@@ -1,3 +1,3 @@
 # goit-markup-hw-04
 Home work
-HTML + CSS + Flex + SVG
+HTML + CSS 
