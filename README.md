@@ -1,3 +1,3 @@
 # goit-markup-hw-04
-Home work
+Home
 HTML + CSS 
